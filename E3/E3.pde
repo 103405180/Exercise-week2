@@ -7,10 +7,10 @@ void setup()
 {
   size(640,480);
   background(255); 
-  a=loadImage("img/0.jpg");
-  b=loadImage("img/1.jpg");
-  c=loadImage("img/2.jpg");
-  d=loadImage("img/3.jpg");
+  a=loadImage("E3Pic/0.jpg");
+  b=loadImage("E3Pic/1.jpg");
+  c=loadImage("E3Pic/2.jpg");
+  d=loadImage("E3Pic/3.jpg");
   x=0;
 
 }
